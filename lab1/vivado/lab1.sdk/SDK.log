@@ -1,0 +1,9 @@
+15:57:20 INFO  : Registering command handlers for SDK TCF services
+15:57:23 INFO  : Launching XSCT server: xsct -n -interactive /home/diezec/lab1/vivado/lab1.sdk/temp_xsdb_launch_script.tcl
+15:57:25 INFO  : XSCT server has started successfully.
+15:57:25 INFO  : Successfully done setting XSCT server connection channel  
+15:57:29 INFO  : Successfully done setting SDK workspace  
+15:57:29 INFO  : Processing command line option -hwspec /home/diezec/lab1/vivado/lab1.sdk/Lab1_SoC_wrapper.hdf.
+16:12:46 INFO  : Invoking Bootgen: bootgen -image output.bif -arch zynq -o /home/diezec/lab1/sd-image/BOOT.bin
+16:12:46 INFO  : Creating new bif file /home/diezec/lab1/sd-temp/output.bif
+16:12:48 INFO  : Bootgen command execution is done.

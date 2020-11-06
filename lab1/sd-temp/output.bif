@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]/home/diezec/lab1/sd-temp/FSBL.elf
+	/home/diezec/lab1/sd-temp/Lab1_SoC_wrapper.bit
+	/home/diezec/lab1/sd-temp/u-boot.elf
+}
